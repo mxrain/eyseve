@@ -1,0 +1,34 @@
+[
+    {
+      "type": "website",
+      "title": "百度",
+      "url": "https://www.baidu.com",
+      "description": "百度搜索引擎",
+      "imageUrl": "https://www.baidu.com/favicon.ico", 
+      "tags": ["搜索引擎", "互联网"]
+    },
+    {
+      "type": "website",
+      "title": "谷歌",
+      "url": "https://www.google.com",
+      "description": "谷歌搜索引擎",
+      "imageUrl": "https://www.google.com/favicon.ico", 
+      "tags": ["搜索引擎", "互联网"]
+    },
+    {
+      "type": "website",
+      "title": "必应",
+      "url": "https://cn.bing.com",
+      "description": "必应搜索引擎",
+      "imageUrl": "https://cn.bing.com/favicon.ico", 
+      "tags": ["搜索引擎", "互联网"]
+    },
+    {
+      "type": "website",
+      "title": "搜狗",
+      "url": "https://www.sogou.com",
+      "description": "搜狗搜索引擎",
+      "imageUrl": "https://www.sogou.com/favicon.ico", 
+      "tags": ["搜索引擎", "互联网"]
+    }
+  ]
